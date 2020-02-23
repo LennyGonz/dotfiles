@@ -1,17 +1,25 @@
 Here is a list of all the extensions I find to be the most helpful/useful
 
+- Auto Close Tag
 - Better Comments
 - Bracket Pair Colorizer
 - Debugger for Chrome
+- Docker
 - DotENV
 - ES7 React/Redux/GraphQL/React-Native snippets
 - ESLint
+- GraphQL 
 - GraphQL for VSCode
-- GraphQL
 - Jest
+- Live Share
+- Markdown All in One
+- Markdown Preview Enhanced
+- Material Icon Theme
+- Material Theme
+- npm
 - npm Intellisense
 - path Intellisense
-- Rainbow Brackets
+- Prettier - Code formatter
 - Rainbow CSV
 - Live Share(Microsoft)
 - VSCode-Styled-Components

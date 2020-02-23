@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "Dank Mono",
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.fontWeight": "400",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "Dank Mono",
+    "explorer.confirmDragAndDrop": false
+}
